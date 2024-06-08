@@ -26,7 +26,9 @@ set(OUTPUT_DIR
   RUNTIME_OUTPUT_DIRECTORY_RELEASE        "${OUT_BINARY_DIR}"
 )
 
-SET(EIGEN_PATH "${CMAKE_CURRENT_SOURCE_DIR}/3rd_party/Eigen/eigen-3.4.0")
+
+#  填入自己的 eigen 下载地址
+SET(EIGEN_PATH "D:/myapp/Eigen/eigen-3.4.0")
 SET(IGL_INCLUDE_PATH "${CMAKE_CURRENT_SOURCE_DIR}/3rd_party/libigl/libigl/include")
 SET(GLAD_INCLUDE_PATH "${CMAKE_CURRENT_SOURCE_DIR}/3rd_party/GLAD_4.6/include")
 SET(GLFW_INCLUDE_PATH "${CMAKE_CURRENT_SOURCE_DIR}/3rd_party/GLFW/glfw-3.3.9/install/include")
