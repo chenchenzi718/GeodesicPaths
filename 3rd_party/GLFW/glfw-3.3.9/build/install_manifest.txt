@@ -1,0 +1,9 @@
+D:/myapp/OpenGL/3rd-party/GLFW/glfw-3.3.9/install/lib/glfw3dll.lib
+D:/myapp/OpenGL/3rd-party/GLFW/glfw-3.3.9/install/bin/glfw3.dll
+D:/myapp/OpenGL/3rd-party/GLFW/glfw-3.3.9/install/include/GLFW/glfw3.h
+D:/myapp/OpenGL/3rd-party/GLFW/glfw-3.3.9/install/include/GLFW/glfw3native.h
+D:/myapp/OpenGL/3rd-party/GLFW/glfw-3.3.9/install/lib/cmake/glfw3/glfw3Config.cmake
+D:/myapp/OpenGL/3rd-party/GLFW/glfw-3.3.9/install/lib/cmake/glfw3/glfw3ConfigVersion.cmake
+D:/myapp/OpenGL/3rd-party/GLFW/glfw-3.3.9/install/lib/cmake/glfw3/glfw3Targets.cmake
+D:/myapp/OpenGL/3rd-party/GLFW/glfw-3.3.9/install/lib/cmake/glfw3/glfw3Targets-debug.cmake
+D:/myapp/OpenGL/3rd-party/GLFW/glfw-3.3.9/install/lib/pkgconfig/glfw3.pc

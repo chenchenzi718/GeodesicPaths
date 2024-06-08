@@ -1,0 +1,5 @@
+﻿  Building Custom Rule D:/myapp/OpenGL/3rd-party/GLFW/glfw-3.3.9/tests/CMakeLists.txt
+  joysticks.c
+  glad_gl.c
+  正在生成代码...
+  joysticks.vcxproj -> D:\myapp\OpenGL\3rd-party\GLFW\glfw-3.3.9\build\tests\Release\joysticks.exe

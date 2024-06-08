@@ -1,0 +1,10 @@
+^D:\MYAPP\OPENGL\3RD-PARTY\GLFW\GLFW-3.3.9\BUILD\CMAKEFILES\C951DAE04CDF2F601FE99A10E2E4A095\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

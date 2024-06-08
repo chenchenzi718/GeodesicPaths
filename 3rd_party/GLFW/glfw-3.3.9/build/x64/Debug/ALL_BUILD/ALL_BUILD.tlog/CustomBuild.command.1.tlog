@@ -1,0 +1,10 @@
+^D:\MYAPP\OPENGL\3RD-PARTY\GLFW\GLFW-3.3.9\CMAKELISTS.TXT
+setlocal
+D:\myapp\cmake\bin\cmake.exe -SD:/myapp/OpenGL/3rd-party/GLFW/glfw-3.3.9 -BD:/myapp/OpenGL/3rd-party/GLFW/glfw-3.3.9/build --check-stamp-file D:/myapp/OpenGL/3rd-party/GLFW/glfw-3.3.9/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

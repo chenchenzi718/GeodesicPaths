@@ -1,0 +1,12 @@
+﻿  1>
+  -- Install configuration: "Debug"
+  -- Installing: D:/myapp/OpenGL/3rd-party/GLFW/glfw-3.3.9/install/lib/glfw3dll.lib
+  -- Installing: D:/myapp/OpenGL/3rd-party/GLFW/glfw-3.3.9/install/bin/glfw3.dll
+  -- Up-to-date: D:/myapp/OpenGL/3rd-party/GLFW/glfw-3.3.9/install/include/GLFW
+  -- Up-to-date: D:/myapp/OpenGL/3rd-party/GLFW/glfw-3.3.9/install/include/GLFW/glfw3.h
+  -- Up-to-date: D:/myapp/OpenGL/3rd-party/GLFW/glfw-3.3.9/install/include/GLFW/glfw3native.h
+  -- Up-to-date: D:/myapp/OpenGL/3rd-party/GLFW/glfw-3.3.9/install/lib/cmake/glfw3/glfw3Config.cmake
+  -- Up-to-date: D:/myapp/OpenGL/3rd-party/GLFW/glfw-3.3.9/install/lib/cmake/glfw3/glfw3ConfigVersion.cmake
+  -- Up-to-date: D:/myapp/OpenGL/3rd-party/GLFW/glfw-3.3.9/install/lib/cmake/glfw3/glfw3Targets.cmake
+  -- Installing: D:/myapp/OpenGL/3rd-party/GLFW/glfw-3.3.9/install/lib/cmake/glfw3/glfw3Targets-debug.cmake
+  -- Up-to-date: D:/myapp/OpenGL/3rd-party/GLFW/glfw-3.3.9/install/lib/pkgconfig/glfw3.pc
