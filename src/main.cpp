@@ -12,7 +12,7 @@ int main(int argc, char* argv[])
 
     Eigen::MatrixXd V;
     Eigen::MatrixXi F;
-    igl::read_triangle_mesh("../example/newbone.obj", V, F);
+    igl::read_triangle_mesh("../example/bunny_10k.obj", V, F);
 
     ViewerAttr viewer_attr = ViewerAttr(V, F);
 
